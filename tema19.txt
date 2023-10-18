@@ -114,11 +114,11 @@ TÍTULO V. Responsable y encargado del tratamiento.
 TÍTULO VI. Transferencias internacionales de datos. (art. 40-43)
 TÍTULO VII. Autoridades de protección de datos
 	Capítulo I. La Agencia Española de Protección de Datos 
-		Sección 1ª Disposiciones generales (art. 40-50)
-		Sección 2ª Potestades de investigación y planes de auditoría preventiva (art. 51-54)
+	Sección 1ª Disposiciones generales (art. 40-50)
+	Sección 2ª Potestades de investigación y planes de auditoría preventiva (art. 51-54)
 Sección 3ª Otras potestades de la Agencia Española de Protección de Datos (art.55-56)
-	Capítulo II. Autoridades autonómicas de protección de datos.
-		Sección 1ª. Disposiciones generales (art. 57-59)
+Capítulo II. Autoridades autonómicas de protección de datos.
+Sección 1ª. Disposiciones generales (art. 57-59)
 Sección 2ª. Coordinación en el marco de los procedimientos establecidos en el Reglamento UE 2016/678 (art. 60-62)
 TÍTULO VIII. Procedimientos en caso de posible vulneración de la normativa de protección de datos. (art. 63-69)
 TÍTULO IX. Régimen sancionador. (art. 70-78)
@@ -131,19 +131,19 @@ b) Garantizar los derechos digitales de la ciudadanía conforme al mandato estab
 El derecho fundamental de las personas físicas a la protección de datos personales, amparado por el artículo 18.4 de la Constitución, se ejercerá con arreglo a lo establecido en el Reglamento (UE) 2016/679 y en esta ley orgánica.
 2.2.2.	ÁMBITO DE APLICACIÓN:
 •	Títulos I a IX y de los artículos 89 a 94: Lo dispuesto en los Títulos I a IX y en los artículos 89 a 94 de la presente ley orgánica se aplica a cualquier tratamiento total o parcialmente automatizado de datos personales, así como al tratamiento no automatizado de datos personales contenidos o destinados a ser incluidos en un fichero.
-
 •	Exclusiones: La  orgánica NO  será de aplicación:
 a) A los tratamientos excluidos del ámbito de aplicación del Reglamento general de protección de datos por su artículo 2.2, sin perjuicio de lo dispuesto en los apartados 3 y 4 de este artículo.
 b) A los tratamientos de datos de personas fallecidas, sin perjuicio de lo establecido en el artículo 3.
 c) A los tratamientos sometidos a la normativa sobre protección de materias clasificadas.
-
 •	Aplicación supletoria:
 o	Los tratamientos a los que no sea directamente aplicable el Reglamento (UE) 2016/679 por afectar a actividades no comprendidas en el ámbito de aplicación del Derecho de la Unión Europea, se regirán por lo dispuesto en su legislación específica si la hubiere y supletoriamente por lo establecido en el citado reglamento y en la presente ley orgánica. Se encuentran en esta situación, entre otros, los tratamientos realizados al amparo de:
 	La legislación orgánica del régimen electoral general (LO 5/1985, de 19 de junio, de Régimen electoral general)
 	Los tratamientos realizados en el ámbito de instituciones penitenciarias 
 	Los tratamientos derivados del Registro Civil, los Registros de la Propiedad y Mercantiles.
 o	El tratamiento de datos llevado a cabo con ocasión de la tramitación por los órganos judiciales de los procesos de los que sean competentes, así como el realizado dentro de la gestión de la Oficina Judicial, se regirán por lo dispuesto en el Reglamento (UE) 2016/679 y la presente ley orgánica, sin perjuicio de las disposiciones de la Ley Orgánica 6/1985, de 1 julio, del Poder Judicial, que le sean aplicables.
-o	El tratamiento de datos llevado a cabo con ocasión de la tramitación por el Ministerio Fiscal de los procesos de los que sea competente, así como el realizado con esos fines dentro de la gestión de la Oficina Fiscal, se regirán por lo dispuesto en el Reglamento (UE) 2016/679 y la presente Ley Orgánica, sin perjuicio de las disposiciones de la Ley 50/1981, de 30 de diciembre, reguladora del Estatuto Orgánico del Ministerio Fiscal, la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de las normas procesales que le sean aplicables. (El último aparatado se introduce por Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales.  En vigor desde el 16/06/2021)
+o	El tratamiento de datos llevado a cabo con ocasión de la tramitación por el Ministerio Fiscal de los procesos de los que sea competente, así como el realizado con esos fines dentro de la gestión de la Oficina Fiscal, se regirán por lo dispuesto en el Reglamento (UE) 2016/679 y la presente Ley Orgánica, sin perjuicio de las disposiciones de la Ley 50/1981, de 30 de diciembre, reguladora del Estatuto Orgánico del Ministerio Fiscal, la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de las normas procesales que le sean aplicables. 
+(El último aparatado se introduce por Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales.  En vigor desde el 16/06/2021)
+
 2.2.3.	NATURALEZA: 
 Naturaleza jurídica de los preceptos contenidos en la LOPD: Conforme a la Disposición Final 1ª:
 La presente ley tiene el carácter de ley orgánica.
@@ -168,8 +168,6 @@ a) Cuando los plazos se señalen por días, se entiende que estos son hábiles, 
 b) Si el plazo se fija en semanas, concluirá el mismo día de la semana en que se produjo el hecho que determina su iniciación en la semana de vencimiento.
 c) Si el plazo se fija en meses o años, concluirá el mismo día en que se produjo el hecho que determina su iniciación en el mes o el año de vencimiento. Si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.
 d) Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.
-
-
 3.	PRINCIPIOS Y DERECHOS
 3.1.	PRINCIPIOS
 Recogidos en el Título II LOPD, artículos 4-10, y en el RPD, artículos 5-11.
@@ -246,7 +244,6 @@ d) Fuesen obtenidos de un registro público por el responsable.
 Los responsables y encargados del tratamiento de datos así como todas las personas que intervengan en cualquier fase de este estarán sujetas al deber de confidencialidad al que se refiere el artículo 5.1.f) del Reglamento (U.E) 2016/679.
 La obligación general señalada en el apartado anterior será complementaria de los deberes de secreto profesional de conformidad con su normativa aplicable.
 Las obligaciones establecidas en los apartados anteriores se mantendrán aun cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.
-
 3.2.5.	TRATAMIENTOS ESPECIALES
 El art. 9.1 RPD PROHIBE:
 	El tratamiento de datos personales que revelen el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, la afiliación sindical.
@@ -273,8 +270,8 @@ El artículo 10 RPD establece que el tratamiento de datos personales relativos a
 El artículo 10 LOPD dispone en relación a este que el tratamiento de datos personales relativos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, para fines distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, solo podrá llevarse a cabo cuando se encuentre amparado en una norma de Derecho de la Unión, en esta ley orgánica o en otras normas de rango legal.
 El registro completo de los datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas a que se refiere el artículo 10 del Reglamento (UE) 2016/679, podrá realizarse conforme con lo establecido en la regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia.
 Fuera de los supuestos señalados en los apartados anteriores, los tratamientos de datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones.
-Debe tenerse en cuenta en este punto la regulación específica de la materia realizada  por la  Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales. (BOE 26/05/2021).
-Esta Ley entra en vigor el 16 de junio de 2021, salvo las previsiones del Capítulo IV , que entrarán en vigor a los 6 meses de su publicación .
+Debe tenerse en cuenta en este punto la regulación específica de la materia realizada  por la  Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales. (BOE 26/05/2021)
+Esta Ley entra en vigor el 16 de junio de 2021, salvo las previsiones del Capítulo IV , que entrarán en vigor a los 6 meses de su publicación
 3.2.7.	TRATAMIENTO QUE NO REQUIERE IDENFICACIÓN
 El artículo 11 RPD dispone que:
 Si los fines para los cuales un responsable trata datos personales no requieren o ya no requieren la identificación de  un  interesado  por  el  responsable, este  no  estará obligado a  mantener,  obtener o  tratar  información adicional con vistas a identificar al interesado con la única finalidad de cumplir el RPD.
@@ -287,8 +284,6 @@ a) Que el tratamiento se refiera únicamente a los datos necesarios para su loca
 b) Que la finalidad del tratamiento sea únicamente mantener relaciones de cualquier índole con la persona jurídica en la que el afectado preste sus servicios.
 La misma presunción operará para el tratamiento de los datos relativos a los empresarios individuales y a los profesionales liberales, cuando se refieran a ellos únicamente en dicha condición y no se traten para entablar una relación con los mismos como personas físicas.
 Los responsables o encargados del tratamiento podrán también tratar los datos mencionados en los dos apartados anteriores cuando ello se derive de una obligación legal o sea necesario para el ejercicio de sus competencias.
-
-
 3.2.8.b.	Sistemas de información crediticia. Art. 20 LOPD
 Salvo prueba en contrario, se presumirá lícito el tratamiento de datos personales relativos al incumplimiento de obligaciones dinerarias, financieras o de crédito por sistemas comunes de información crediticia cuando se cumplan los siguientes requisitos:
 a) Que los datos hayan sido facilitados por el acreedor o por quien actúe por su cuenta o interés.
@@ -336,6 +331,8 @@ Los datos de quien formule la comunicación y de los empleados y terceros deber�
 En todo caso, transcurridos tres meses desde la introducción de los datos, deberá procederse a su supresión del sistema de denuncias, salvo que la finalidad de la conservación sea dejar evidencia del funcionamiento del modelo de prevención de la comisión de delitos por la persona jurídica. Las denuncias a las que no se haya dado curso solamente podrán constar de forma anonimizada, sin que sea de aplicación la obligación de bloqueo prevista en el artículo 32 LOPD (bloqueo de datos)
 Transcurrido el plazo mencionado en el párrafo anterior, los datos podrán seguir siendo tratados, por el órgano al que corresponda, conforme al 24.2 LOPD, la investigación de los hechos denunciados, no conservándose en el propio sistema de información de denuncias internas.
 Los principios de los apartados anteriores serán aplicables a los sistemas de denuncias internas que pudieran crearse en las Administraciones Públicas.
+
+
 3.2.8.g.	Tratamiento de datos en el ámbito de la función estadística pública. Art. 25 LOPD.
 El tratamiento de datos personales llevado a cabo por los organismos que tengan atribuidas las competencias relacionadas con el ejercicio de la función estadística pública se someterá a lo dispuesto en su legislación específica, así como en el Reglamento (UE) 2016/679 y en la LOPD.
 La comunicación de los datos a los órganos competentes en materia estadística solo se entenderá amparada en el artículo 6.1 e) del Reglamento (UE) 2016/679 – cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable de tratamiento- en los casos en que la estadística para la que se requiera la información venga exigida por una norma de Derecho de la Unión Europea o se encuentre incluida en los instrumentos de programación estadística legalmente previstos.
@@ -489,7 +486,6 @@ Transcurrido ese plazo deberá procederse a la destrucción de los datos.
 Los datos bloqueados no podrán ser tratados para ninguna finalidad distinta de la señalada en el apartado anterior.
 Cuando para el cumplimiento de esta obligación, la configuración del sistema de información no permita el bloqueo o se requiera una adaptación que implique un esfuerzo desproporcionado, se procederá a un copiado seguro de la información de modo que conste evidencia digital, o de otra naturaleza, que permita acreditar la autenticidad de la misma, la fecha del bloqueo y la no manipulación de los datos durante el mismo.
 La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos, dentro del ámbito de sus respectivas competencias, podrán fijar excepciones a la obligación de bloqueo establecida en este artículo, en los supuestos en que, atendida la naturaleza de los datos o el hecho de que se refieran a un número particularmente elevado de afectados, su mera conservación, incluso bloqueados, pudiera generar un riesgo elevado para los derechos de los afectados, así como en aquellos casos en los que la conservación de los datos bloqueados pudiera implicar un coste desproporcionado para el responsable del tratamiento.
-
 3.3.6.	DERECHO A LA LIMITACIÓN DEL TRATAMIENTO
 Regulado en el artículo 18 RPD en los siguientes términos
 El interesado tendrá derecho a obtener del responsable del tratamiento la limitación del tratamiento de los datos cuando se cumpla alguna de las condiciones siguientes: 
@@ -508,10 +504,7 @@ b)	 el tratamiento se efectúe por medios automatizados.
   Al ejercer su derecho a la portabilidad de los datos de acuerdo con el apartado 1, el interesado tendrá derecho a que los datos personales se transmitan directamente de responsable a responsable cuando sea técnicamente posible. 
   El  ejercicio del  derecho a la portabilidad se  entenderá sin  perjuicio del derecho de supresión. Tal derecho no se aplicará al tratamiento que sea necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento.
 El derecho de portabilidad no afectará negativamente a los derechos y libertades de otros.
-
-
-3.3.8.	DERECHO DE OPOSICIÓN
-Artículo 21 RPD
+3.3.8.	DERECHO DE OPOSICIÓN ARTÍCULO 21 RPD
  El  interesado tendrá  derecho a  oponerse en  cualquier momento, por  motivos relacionados con  su  situación particular,  a  que  datos  personales que  le  conciernan  sean  objeto de  un  tratamiento  basado en  lo  dispuesto en  el artículo 6,  apartado  1,  letras  e)  - cumplimiento  de  una  misión realizada en  interés  público o  en  el  ejercicio de poderes públicos conferidos al responsable del tratamiento; o  f) -necesario para la satisfacción de intereses legítimos perseguidos por el responsable del tratamiento o por  un  tercero, siempre que  sobre dichos intereses  no  prevalezcan los  intereses  o  los  derechos  y  libertades fundamentales del interesado que requieran la protección de datos personales, en particular cuando el interesado sea un niño.-,  incluida la  elaboración de  perfiles  sobre  la  base  de  dichas disposiciones. 
 El responsable del tratamiento dejará de tratar los datos personales, salvo que acredite motivos legítimos imperiosos para el tratamiento  que  prevalezcan sobre  los  intereses,  los  derechos y  las  libertades  del  interesado, o  para  la  formulación, el ejercicio o la defensa de reclamaciones. 
   Cuando el tratamiento de datos personales tenga por objeto la mercadotecnia directa, el interesado tendrá derecho a  oponerse en  todo  momento al  tratamiento  de  los  datos  personales que  le  conciernan,  incluida la  elaboración de perfiles en la medida en que esté relacionada con la citada mercadotecnia.
@@ -519,7 +512,6 @@ El responsable del tratamiento dejará de tratar los datos personales, salvo que
 A  más  tardar en  el  momento de  la  primera comunicación con  el  interesado, el  derecho  de oposición será mencionado explícitamente al interesado y será  presentado claramente y al  margen de cualquier otra información. 
   En  el  contexto  de  la  utilización de  servicios  de  la  sociedad de  la  información, y  no  obstante lo  dispuesto  en  la Directiva 2002/58/CE, el interesado podrá ejercer su derecho a oponerse por medios automatizados que apliquen especificaciones técnicas. 
   Cuando los  datos  personales se  traten con  fines  de  investigación  científica  o  histórica  o  fines  estadísticos,  el  interesado tendrá derecho, por  motivos relacionados con  su  situación particular,  a  oponerse al  tratamiento  de  datos personales que  le  conciernan,  salvo  que  sea  necesario  para  el cumplimiento de una misión realizada por razones de interés público.
-
 3.3.9.	DERECHO A NO SER OBJETO DE DECISIONES INDIVIDUALES AUTOMATIZADAS.
 El artículo 22 RPD dispone que:
 Todo  interesado tendrá derecho  a  no  ser  objeto de  una  decisión basada únicamente en  el  tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar. 
@@ -613,6 +605,10 @@ El responsable del tratamiento determinará si, cuando finalice la prestación d
 No procederá la destrucción de los datos cuando exista una previsión legal que obligue a su conservación, en cuyo caso deberán ser devueltos al responsable, que garantizará su conservación mientras tal obligación persista.
 El encargado del tratamiento podrá conservar, debidamente bloqueados, los datos en tanto pudieran derivarse responsabilidades de su relación con el responsable del tratamiento.
 En el ámbito del sector público podrán atribuirse las competencias propias de un encargado del tratamiento a un determinado órgano de la Administración General del Estado, la Administración de las comunidades autónomas, las Entidades que integran la Administración Local o a los Organismos vinculados o dependientes de las mismas mediante la adopción de una norma reguladora de dichas competencias, que deberá incorporar el contenido exigido por el artículo 28.3 del Reglamento (UE) 2016/679.
+
+
+
+
 
 4.3.	OBLIGACIONES GENERALES DEL RESPONSABLE Y ENCARGADO DEL TRATAMIENTO. RESPONSABILIDAD PROACTIVA.
 El RPD incorpora un amplio conjunto de medidas de obligatorio cumplimiento para el responsable y el encargado del tratamiento que implican de manera activa y diligente su labor al frente de los mismos.
@@ -718,7 +714,6 @@ d)  un proceso de verificación, evaluación y  valoración regulares de  la  ef
 En relación al sector público, la Disposición Adicional primera dispone que El Esquema Nacional de Seguridad incluirá las medidas que deban implantarse en caso de tratamiento de datos personales para evitar su pérdida, alteración o acceso no autorizado, adaptando los criterios de determinación del riesgo en el tratamiento de los datos a lo establecido en el artículo 32 del Reglamento (UE) 2016/679.
 Los responsables enumerados en el artículo 77.1 LOPD deberán aplicar a los tratamientos de datos personales las medidas de seguridad que correspondan de las previstas en el Esquema Nacional de Seguridad, así como impulsar un grado de implementación de medidas equivalentes en las empresas o fundaciones vinculadas a los mismos sujetas al Derecho privado.
 En los casos en los que un tercero preste un servicio en régimen de concesión, encomienda de gestión o contrato, las medidas de seguridad se corresponderán con las de la Administración pública de origen y se ajustarán al Esquema Nacional de Seguridad.
-
 4.10.	VIOLACIÓN DE SEGURIDAD EN LOS DATOS
 4.10.1.	NOTIFICACIÓN DE UNA VIOLACIÓN DE SEGURIDAD EN LOS DATOS PERSONALES A LA AUTORIDAD DE CONTROL
 El artículo 33 RPD prevé que en  caso  de  violación de  la  seguridad  de  los  datos  personales, el  responsable del  tratamiento la  notificará  a  la autoridad de control competente sin dilación indebida y, de ser posible, a más tardar 72 horas después de que haya tenido constancia de ella, a menos que sea improbable que dicha violación de la seguridad constituya un riesgo para los derechos y las libertades de las personas físicas. 
@@ -925,12 +920,13 @@ El artículo 44 LOPD configura la  Agencia Española de Protección de Datos com
 Su denominación oficial, de conformidad con lo establecido en el artículo 109.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, será «Agencia Española de Protección de Datos, Autoridad Administrativa Independiente».
 Se relaciona con el Gobierno a través del Ministerio de Justicia.
 La Agencia Española de Protección de Datos tendrá la condición de representante común de las autoridades de protección de datos del Reino de España en el Comité Europeo de Protección de Datos.
-La Agencia Española de Protección de Datos, el Consejo General del Poder Judicial y en su caso, la Fiscalía General del Estado, colaborarán en aras del adecuado ejercicio de las respectivas competencias que la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, les atribuye en materia de protección de datos personales en el ámbito de la Administración de Justicia.
+La Agencia Española de Protección de Datos, el Consejo General del Poder Judicial y en su caso, la Fiscalía General del Estado, colaborarán en aras del adecuado ejercicio de las respectivas competencias que la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, les atribuye en materia de protección de datos personales en el ámbito de la Administración de Justicia
 6.1.	RÉGIMEN JURÍDICO
 La Agencia Española de Protección de Datos se rige por lo dispuesto en el Reglamento (UE) 2016/679, la presente ley orgánica y sus disposiciones de desarrollo. Supletoriamente, en cuanto sea compatible con su plena independencia y sin perjuicio de lo previsto en el artículo 63.2 LOPD, se regirá por las normas citadas en el artículo 110.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
-Por Real Decreto 389/2021, de 1 de junio, se aprueba el Estatuto de la Agencia Española de Protección de Datos (BOE 03/06/2021), que deroga el anterior estatuto, aprobado por RD  428/1993. Conforme a la Disposición Adicional vigésima LOPD No será de aplicación a la Agencia Española de Protección de Datos el artículo 50.2.c) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
-La Agencia Española de Protección de Datos podrá adherirse a los sistemas de contratación centralizada establecidos por las Administraciones Públicas y participar en la gestión compartida de servicios comunes prevista en el artículo 85 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Por Real Decreto 389/2021, de 1 de junio, se aprueba el Estatuto de la Agencia Española de Protección de Datos (BOE 03/06/2021), que deroga el anterior estatuto, aprobado por RD  428/1993. 
 
+Conforme a la Disposición Adicional vigésima LOPD No será de aplicación a la Agencia Española de Protección de Datos el artículo 50.2.c) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+La Agencia Española de Protección de Datos podrá adherirse a los sistemas de contratación centralizada establecidos por las Administraciones Públicas y participar en la gestión compartida de servicios comunes prevista en el artículo 85 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 6.2.	FUNCIONES Y POTESTADES
 6.2.1.	FUNCIONES
 Corresponde a la Agencia Española de Protección de Datos supervisar la aplicación de esta ley orgánica y del Reglamento (UE) 2016/679 y, en particular, ejercer las funciones establecidas en el artículo 57 y las potestades previstas en el artículo 58 del mismo reglamento, en la presente ley orgánica y en sus disposiciones de desarrollo.
@@ -972,7 +968,6 @@ e)   obtener del  responsable y  del  encargado  del  tratamiento el  acceso a  
 f)   obtener el acceso a todos los locales del responsable y del encargado del tratamiento, incluidos cualesquiera equipos y medios de tratamiento de datos, de conformidad con el Derecho procesal de la Unión o de los Estados miembros. 
 ÁMBITO PERSONAL  Y COMPETENTE: Conforme al art. 51 LOPD, la AEPD desarrollará su actividad de investigación a través de las actuaciones previstas en el Título VIII y de los planes de auditoría preventivas.
 La actividad de investigación se llevará a cabo por los funcionarios de la Agencia Española de Protección de Datos o por funcionarios ajenos a ella habilitados expresamente por su Presidencia.
-
 En los casos de actuaciones conjuntas de investigación el personal de las autoridades de control de otros Estados Miembros de Unión Europea que colabore con la Agencia Española de Protección de Datos ejercerá sus facultades con arreglo a lo previsto en la LOPD  y bajo la orientación y en presencia del personal de esta.
 Los funcionarios que desarrollen actividades de investigación tendrán la consideración de agentes de la autoridad en el ejercicio de sus funciones, y estarán obligados a guardar secreto sobre las informaciones que conozcan con ocasión de dicho ejercicio, incluso después de haber cesado en él.
 DEBER DE COLABORACIÓN PARA EL DESARROLLO DE LA FUNCIÓN DE INVESTIGACIÓN.
@@ -1039,8 +1034,7 @@ En base a todo lo anterior, las funciones consultivas de la AEPD serán las sigu
 4.	Función consultiva específica, cuando las conclusiones de una evaluación de impacto muestren que el tratamiento al que se refiere entrañaría un alto riesgo si el responsable no toma medidas para mitigarlo.
 Asimismo, y en aras a incrementar la seguridad jurídica, se configuran las circulares como el elemento prioritario a través del cual la AEPD debe establecer los criterios generales de interpretación de la normativa sobre protección de datos personales.
 Vigencia: La citada instrucción entrará en vigor el 6 de noviembre de 2021.
-
-D)OTROS PODERES
+D) OTROS PODERES
 a) Potestades de regulación. Circulares de la Agencia Española de Protección de Datos (art. 55 LOPD)
 La Presidencia de la Agencia Española de Protección de Datos podrá dictar disposiciones que fijen los criterios a que responderá la actuación de esta autoridad en la aplicación de lo dispuesto en el Reglamento (UE) 2016/679 y en la LOPD, que se denominarán «Circulares de la Agencia Española de Protección de Datos».
 Su elaboración se sujetará al procedimiento establecido en el Estatuto de la Agencia Española de Protección de Datos, que deberá prever los informes técnicos y jurídicos que fueran necesarios y la audiencia a los interesados.

@@ -1,0 +1,540 @@
+      
+
+TEMA 7 
+AUXILIAR ADMINISTRATIVO DEL AYUNTAMIENTO DE SEVILLA                                                                       
+       Versión 2
+Índice
+1.	LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS	3
+1.1.	ANTECEDENTES LEGISLATIVOS	3
+1.2.	NUEVOS PILARES SOBRE LOS QUE SE ASIENTA EL DERECHO ADMINISTRATIVO ESPAÑOL	3
+1.3.	REGULACIÓN CONSTITUCIONAL	3
+1.3.1.	SOMETIMIENTO PLENO A LA LEY Y AL DERECHO POR PARTE DE LA ADMINISTRACIÓN PÚBLICA	3
+1.3.2.	COMPETENCIA	4
+2.	DISPOSICIONES GENERALES. OBJETO Y ÁMBITO DE APLICACIÓN (ARTÍCULOS 1 Y 2)	4
+3.	INTERESADO EN EL PROCEDIMIENTO ADMINISTRATIVO Y REPRESENTACIÓN (ARTÍCULOS 4 Y 5)	5
+3.1.	CONCEPTO DE INTERESADO	5
+3.2.	REPRESENTACIÓN	7
+3.2.1.	REGISTRO ELECTRÓNICO DE APODERAMIENTOS	8
+4.	DERECHOS DE LAS PERSONAS EN SUS RELACIONES CON LAS ADMINISTRACIONES PÚBLICAS (ARTÍCULO 13)	9
+4.1.	DERECHOS DE LOS INTERESADOS	10
+5.	DERECHO Y OBLIGACIÓN DE RELACIONARSE ELECTRÓNICAMENTE CON LAS ADMINISTRACIONES PÚBLICAS (ARTÍCULO 14)	11
+5.1.	LA IDENTIFICACIÓN DE LOS INTERESADOS Y FIRMA. ART 9 A 12 LEY 39/2015	12
+5.2.	IDENTIFICACIÓN O FIRMA ELECTRÓNICA DE LAS PERSONAS INTERESADAS MEDIANTE PERSONAL FUNCIONARIO PÚBLICO HABILITADO.	15
+6.	REGISTROS (ARTÍCULO 16)	16
+6.1.	RÉGIMEN JURÍDICO	16
+6.2.	EL REGISTRO DE ENTRADA Y SALIDA DE DOCUMENTOS	16
+6.3.	SISTEMA DE INTERCONEXIÓN DE REGISTROS	18
+6.4.	LA OFICINA DE ASISTENCIA EN MATERIA DE REGISTROS	19
+7.	ARCHIVO DE DOCUMENTOS (ARTÍCULO 17)	20
+7.1.	TIEMPO DE CONSERVACIÓN Y DESTRUCCIÓN DE LOS DOCUMENTOS	21
+7.2.	CONSERVACIÓN DE DOCUMENTOS ELECTRÓNICOS	21
+7.3.	EL ARCHIVO ELECTRÓNICO DE DOCUMENTOS	22
+7.4.	EL ARCHIVO ELECTRÓNICO ÚNICO	23
+8.	VALIDEZ Y EFICACIA DE LAS COPIAS REALIZADAS POR LAS ADMINISTRACIONES PÚBLICAS (ARTÍCULO 27)	23
+9.	DOCUMENTOS APORTADOS POR LOS INTERESADOS AL PROCEDIMIENTO ADMINISTRATIVO (ARTÍCULO 28)	25
+10.	TÉRMINOS Y PLAZOS (ARTÍCULOS 29 A 33, AMBOS INCLUSIVE)	26
+10.1.	LA OBLIGACIÓN DE RESOLVER	29
+10.2.	SUPUESTOS EXCLUIDOS DE LA OBLIGACIÓN DE RESOLVER.	29
+10.3.	INCUMPLIMIENTO DE LOS PLAZOS PARA RESOLVER Y SUS EFECTOS	29
+10.4.	SUSPENSIÓN DEL PLAZO PARA RESOLVER	30
+10.5.	AMPLIACIÓN DEL PLAZO PARA RESOLVER	32
+10.6.	TRAMITACIÓN SIMPLIFICADA DEL PROCEDIMIENTO	32
+10.7.	LA FALTA DE RESOLUCIÓN EXPRESA: EL RÉGIMEN DEL SILENCIO ADMINISTRATIVO	33
+10.7.1.	LA FIGURA DEL SILENCIO ADMINISTRATIVO	33
+10.7.2.	EN PROCEDIMIENTOS A SOLICITUD DEL INTERESADO	34
+10.7.3.	EN PROCEDIMIENTOS DE OFICIO	35
+
+
+
+1. LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS
+1.1. ANTECEDENTES LEGISLATIVOS
+      Los antecedentes legislativos más relevantes en la materia objeto de este tema se remontan a la llamada "Ley Azcárate" de 19 de octubre de 1889. No obstante, la primera regulación completa del procedimiento administrativo en nuestro ordenamiento jurídico fue introducida por la Ley de Procedimiento Administrativo de 17 de julio de 1958, cuyo objetivo era unificar las normas procedimentales existentes para garantizar una actuación homogénea de la Administración. 
+      Posteriormente, la Constitución de 1978 alumbró un nuevo concepto de Administración, consagrando el pleno sometimiento de esta a la ley y al derecho y su carácter instrumental, así como la responsabilidad política del Gobierno que la dirige. 
+      El siguiente hito más significativo en la evolución del procedimiento administrativo fue la Ley 30/1992, de 26 noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la cual ha sido sustituida por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante, Ley 39/2015).
+1.2. NUEVOS PILARES SOBRE LOS QUE SE ASIENTA EL DERECHO ADMINISTRATIVO ESPAÑOL
+      El legislador ha optado por desglosar el contenido de la anterior Ley 30/1992, de 26 noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en 2 normas distintas, llamadas a regular dos ámbitos de actuación diferenciados de la Administración, el interno (aspectos orgánicos) y el externo (aspectos procedimentales).
+
+      
+1.3. REGULACIÓN CONSTITUCIONAL
+1.3.1. SOMETIMIENTO PLENO A LA LEY Y AL DERECHO POR PARTE DE LA ADMINISTRACIÓN PÚBLICA
+      El procedimiento administrativo es la expresión clara de que la Administración Pública actúa con sometimiento pleno a la ley y al derecho, tal y como impone el artículo 103 de la Constitución, configurándose así como uno de los instrumentos que, junto a los recursos administrativos y el control jurisdiccional, el ordenamiento jurídico pone a disposición de los ciudadanos para proteger su esfera jurídica de derechos frente a la actuación de las Administraciones Públicas.
+      El artículo 105 de la Constitución contempla la existencia (y obliga a su regulación por ley) del procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.
+
+1.3.2. COMPETENCIA
+      La Constitución contempla la regulación de esta materia como una competencia normativa plena y exclusiva del Estado, ya que el artículo 149.1.18 establece que el Estado tiene competencia exclusiva sobre el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas.
+      La regulación general estatal no impide que puedan existir procedimientos específicos que deberán respetar, en todo caso, las garantías mínimas exigibles a toda actuación de la Administración.
+      Como vemos la Constitución contempla también la competencia de las Comunidades Autónomas para establecer las especialidades derivadas de su propia organización lo cual es consecuente teniendo en cuenta que, en muchas materias, también podrán dictar la normativa sustantiva y es lógico que en tales casos las Comunidades Autónomas dicten las normas procedimentales precisas para la aplicación del mismo. Las Comunidades Autónomas tendrán, eso sí, que respetar las normas del procedimiento que, por ser competencia exclusiva del Estado, se consideran procedimiento administrativo común.
+      
+2. DISPOSICIONES GENERALES. OBJETO Y ÁMBITO DE APLICACIÓN (ARTÍCULOS 1 Y 2)
+*Artículo 1 Ley 39/2015*
+Objeto de la Ley.1. La presente Ley tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.
+2. Solo mediante ley, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, y de manera motivada, podrán incluirse trámites adicionales o distintos a los contemplados en esta Ley. Reglamentariamente podrán establecerse especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón de la materia, formas de iniciación y terminación, publicación e informes a recabar.      
+*Artículo 2 Ley 39/2015* 
+Ámbito subjetivo de aplicación.1. La presente Ley se aplica al sector público, que comprende:
+a) La Administración General del Estado.
+b) Las Administraciones de las Comunidades Autónomas.
+c) Las Entidades que integran la Administración Local.
+d) El sector público institucional.
+2. El sector público institucional se integra por:
+a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.
+b) Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas, que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, y en todo caso, cuando ejerzan potestades administrativas.
+c) Las Universidades públicas, que se regirán por su normativa específica y supletoriamente por las previsiones de esta Ley.
+3. Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2 anterior.
+4. Las Corporaciones de Derecho Público se regirán por su normativa específica en el ejercicio de las funciones públicas que les hayan sido atribuidas por Ley o delegadas por una Administración Pública, y supletoriamente por la presente Ley.      
+3. INTERESADO EN EL PROCEDIMIENTO ADMINISTRATIVO Y REPRESENTACIÓN (ARTÍCULOS 4 Y 5)
+3.1. CONCEPTO DE INTERESADO
+      Para que una persona pueda intervenir en un procedimiento administrativo y convertirse en interesado en el mismo, debe cumplir una serie de requisitos. En relación con estos requisitos hay que diferenciar entre capacidad y legitimación.
+* La capacidad hace referencia a la aptitud legal para ejercer de derechos y obligaciones, es decir la posibilidad de actuar en los procedimientos administrativos en general. La capacidad aparece en el artículo 3 de la Ley 39/2015, que establece que tendrán capacidad de obrar ante las Administraciones Públicas, además de las personas que la ostenten con arreglo a las normas civiles, los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico-administrativo, sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela. Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate. En relación con la expresión "menores incapacitados" hay que tener en cuenta que, tras la entrada en vigor de la Ley 8/2021, han desaparecido las incapacitaciones judiciales.
+
+Como novedad, la Ley 39/2015 además tendrán capacidad de obrar ante las Administraciones Públicas, cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.
+
+
+* La legitimación es la aptitud personal para poder actuar en un procedimiento por la relación en que se encuentra la persona con el objeto del mismo, es decir la posibilidad de actuar en un procedimiento en concreto. La legitimación (el concepto de interesado) aparece en el artículo 4 de la Ley 39/2015:
+
+
+*Artículo 4 Ley 39/2015*
+Concepto de interesado.1. Se consideran interesados en el procedimiento administrativo:
+a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.
+b) Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
+c) Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.
+2. Las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares de intereses legítimos colectivos en los términos que la Ley reconozca.
+3. Cuando la condición de interesado derivase de alguna relación jurídica transmisible, el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento.
+      En desarrollo de esta previsión, el artículo 42.4 del RD 203/2021, de 30 de marzo dispone que en los supuestos de sucesión de personas físicas o jurídicas, inter vivos o mortis causa, la persona o entidad que sucede al interesado comunicará la sucesión al órgano competente de la tramitación del procedimiento de cuya existencia tenga conocimiento. Dicha comunicación deberá efectuarse tras la efectividad de la sucesión o desde la inscripción de la defunción en el Registro Civil, en el caso de fallecimiento de persona física.
+      El órgano responsable de la tramitación procederá, en su caso, en procedimientos no finalizados, a autorizar a la persona o entidad sucesora el acceso a las notificaciones electrónicas ya practicadas desde la fecha del hecho causante de la sucesión y a practicar a dicha persona o entidad sucesora las notificaciones electrónicas que se produzcan en lo sucesivo. En el caso en el que la persona física sucesora no estuviera obligada a relacionarse electrónicamente con la Administración y no opte por este cauce de relación, las notificaciones que se produzcan en lo sucesivo deberán practicarse en papel, sin perjuicio de la garantía de acceso al expediente completo.
+      La persona o entidad que suceda al interesado en un procedimiento del que conozca su existencia debe comunicar, conforme a lo expuesto en los párrafos anteriores, la sucesión a la Administración Pública a la que corresponda la tramitación de aquel, en el plazo de 15 días hábiles, desde el día siguiente al de la efectividad de la sucesión o desde la inscripción de la defunción en el Registro Civil, en el caso de fallecimiento de persona física. Si la persona o entidad sucesora efectúa la comunicación después de dicho plazo, los defectos en la práctica de notificaciones que se deriven de este incumplimiento, que hubieran acaecido con anterioridad a dicha comunicación, le serán imputables al interesado; dándose por cumplida por la Administración, a todos los efectos, la obligación de puesta a disposición de la notificación electrónica en la sede electrónica o sede electrónica asociada, a través de la Dirección Electrónica Habilitada única o ambas, según proceda, a la persona jurídica o persona física cuya sucesión el interesado no ha hecho valer.
+      Por otro lado, si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas que sean titulares de derechos o intereses legítimos y directos, cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte, se comunicará a dichas personas la tramitación del procedimiento.
+      La Ley 39/2015, en su artículo 7, regula el supuesto de la existencia de una pluralidad de interesados. Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado y, en su defecto, con el que figure en primer término.
+      
+3.2. REPRESENTACIÓN
+*Artículo 5 Ley 39/2015*
+Representación1. Los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra del interesado.
+2. Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, podrán actuar en representación de otras ante las Administraciones Públicas.
+3. Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona, deberá acreditarse la representación. Para los actos y gestiones de mero trámite se presumirá aquella representación.
+4. La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.
+A estos efectos, se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica, o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente.
+5. El órgano competente para la tramitación del procedimiento deberá incorporar al expediente administrativo acreditación de la condición de representante y de los poderes que tiene reconocidos en dicho momento. El documento electrónico que acredite el resultado de la consulta al registro electrónico de apoderamientos correspondiente tendrá la condición de acreditación a estos efectos.
+6. La falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.
+7. Las Administraciones Públicas podrán habilitar con carácter general o específico a personas físicas o jurídicas autorizadas para la realización de determinadas transacciones electrónicas en representación de los interesados. Dicha habilitación deberá especificar las condiciones y obligaciones a las que se comprometen los que así adquieran la condición de representantes, y determinará la presunción de validez de la representación salvo que la normativa de aplicación prevea otra cosa. Las Administraciones Públicas podrán requerir, en cualquier momento, la acreditación de dicha representación. No obstante, siempre podrá comparecer el interesado por sí mismo en el procedimiento.
+      De esta forma, los interesados pueden conferir su representación a otra persona, si así lo desean, para que actúe en su nombre en la tramitación del procedimiento.
+      En el caso de actuaciones en nombre de persona jurídica, la capacidad de representación podrá acreditarse también mediante certificado electrónico cualificado de representante, entendiéndose en tal caso que el poder de representación abarca cualquier actuación ante cualquier Administración Pública.
+3.2.1. REGISTRO ELECTRÓNICO DE APODERAMIENTOS
+      La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos, en el que deberán inscribirse, al menos, los de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado en un procedimiento administrativo a favor de representante, para actuar en su nombre ante las Administraciones Públicas. También deberá constar el bastanteo realizado del poder.
+      Los registros generales de apoderamientos no impedirán la existencia de registros particulares en cada Organismo donde se inscriban los poderes otorgados para la realización de trámites específicos en el mismo. Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos.
+      Características registros electrónicos generales y particulares de apoderamientos
+* Deberán ser plenamente interoperables entre sí, de modo que se garantice su interconexión, compatibilidad informática, así como la transmisión telemática de las solicitudes, escritos y comunicaciones que se incorporen a los mismos.
+
+* Permitirán comprobar válidamente la representación de quienes actúen ante las Administraciones Públicas en nombre de un tercero, mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.
+
+* Los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos, la siguiente información:
+a) Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante.
+
+b) Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del apoderado.
+
+c) Fecha de inscripción.	
+
+d) Período de tiempo por el cual se otorga el poder.
+
+e) Tipo de poder según las facultades que otorgue. 
+
+      Los registros mercantiles, de la propiedad, y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos
+       Se establece una tipología de poderes que se inscriban en los registros electrónicos generales y particulares de apoderamientos, pudiendo ser:
+a) Un poder general para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa y ante cualquier Administración.
+
+b) Un poder para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa ante una Administración u Organismo concreto.
+
+c) Un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados en el poder.
+
+
+Modelos de poderesCada Comunidad Autónoma aprobará los modelos de poderes inscribibles en el registro cuando se circunscriba a actuaciones ante su respectiva Administración.Otorgamiento del apoderamiento apud actaSe otorgará mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en la Ley 39/2015, o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.ValidezLos poderes inscritos en el registro tendrán una validez determinada máxima de 5 años a contar desde la fecha de inscripción. En todo caso, en cualquier momento antes de la finalización de dicho plazo el poderdante podrá revocar o prorrogar el poder. Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripciónLas solicitudes de inscripciónLas solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder y surtiendo efectos desde la fecha en la que se produzca dicha inscripción.      
+      
+4. DERECHOS DE LAS PERSONAS EN SUS RELACIONES CON LAS ADMINISTRACIONES PÚBLICAS (ARTÍCULO 13)
+      
+      
+
+
+
+*Artículo 13 Ley 39/2015*
+Derechos de las personas en sus relaciones con las Administraciones Públicas.Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de los siguientes derechos:
+a) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.
+b) A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.
+c) A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.
+d) Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.
+e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
+f) A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.
+g) A la obtención y utilización de los medios de identificación y firma electrónica contemplados en esta Ley.
+h) A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.
+i) Cualesquiera otros que les reconozcan la Constitución y las leyes.
+Estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53 referidos a los interesados en el procedimiento administrativo.      
+4.1. DERECHOS DE LOS INTERESADOS
+*Artículo 53 Ley 39/2015*
+Derechos del interesado en el procedimiento administrativo 1. Además del resto de derechos previstos en esta Ley, los interesados en un procedimiento administrativo, tienen los siguientes derechos:
+a) A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados; el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo; el órgano competente para su instrucción, en su caso, y resolución; y los actos de trámite dictados. Asimismo, también tendrán derecho a acceder y a obtener copia de los documentos contenidos en los citados procedimientos.
+Quienes se relacionen con las Administraciones Públicas a través de medios electrónicos, tendrán derecho a consultar la información a la que se refiere el párrafo anterior, en el Punto de Acceso General electrónico de la Administración que funcionará como un portal de acceso. Se entenderá cumplida la obligación de la Administración de facilitar copias de los documentos contenidos en los procedimientos mediante la puesta a disposición de las mismas en el Punto de Acceso General electrónico de la Administración competente o en las sedes electrónicas que correspondan.
+b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.
+c) A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario. En caso de que, excepcionalmente, deban presentar un documento original, tendrán derecho a obtener una copia autenticada de éste.
+d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.
+e) A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.
+f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.
+g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.
+h) A cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.
+i) Cualesquiera otros que les reconozcan la Constitución y las leyes.
+2. Además de los derechos previstos en el apartado anterior, en el caso de procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tendrán los siguientes derechos:
+a) A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia.
+b) A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.      
+5. DERECHO Y OBLIGACIÓN DE RELACIONARSE ELECTRÓNICAMENTE CON LAS ADMINISTRACIONES PÚBLICAS (ARTÍCULO 14)
+*Artículo 14 Ley 39/2015*
+Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas.1. Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas. El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.
+2. En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos:
+a) Las personas jurídicas.
+b) Las entidades sin personalidad jurídica.
+c) Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional. En todo caso, dentro de este colectivo se entenderán incluidos los notarios y registradores de la propiedad y mercantiles.
+d) Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.
+e) Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración.
+3. Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas que por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.      
+      En desarrollo de esta previsión, el artículo 3.2 del Real Decreto 203/2021 dispone que las personas físicas no obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas podrán ejercitar su derecho a relacionarse electrónicamente con la Administración Pública de que se trate al inicio del procedimiento y, a tal efecto, lo comunicarán al órgano competente para la tramitación del mismo de forma que este pueda tener constancia de dicha decisión. 
+      La voluntad de relacionarse electrónicamente o, en su caso, de dejar de hacerlo cuando ya se había optado anteriormente por ello, podrá realizarse en una fase posterior del procedimiento, si bien deberá comunicarse a dicho órgano de forma que quede constancia de la misma. En ambos casos, los efectos de la comunicación se producirán a partir del quinto día hábil siguiente a aquel en que el órgano competente para tramitar el procedimiento haya tenido constancia de la misma.
+5.1. LA IDENTIFICACIÓN DE LOS INTERESADOS Y FIRMA. ART 9 A 12 LEY 39/2015
+      Se distingue entre identificación (será necesaria con carácter general) y firma electrónica (cuando deba acreditarse la voluntad y consentimiento del interesado). Esta división en dos de la clásica identificación mediante firma del ciudadano se basa directamente en la normativa europea Reglamento (UE) 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior.
+      En el artículo 9 de la Ley 39/2015 se establece la obligación de las Administraciones Públicas de verificar la identidad de los interesados en el procedimiento administrativo, mediante la comprobación de su nombre y apellidos o denominación o razón social, según corresponda, que consten en el DNI o documento identificativo equivalente.
+      ¿Cómo pueden los interesados identificarse electrónicamente? Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:
+SISTEMAS DE IDENTIFICACIÓN ELECTRÓNICASistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ''Lista de confianza de prestadores de servicios de certificación''.Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la ''Lista de confianza de prestadores de servicios de certificación''.Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital. Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente. De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación, durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.
+      Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas basados en certificados electrónicos sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento cualquier otro sistema, que las Administraciones consideren válido.
+      En relación con los sistemas de identificación que las Administraciones consideren válido, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos a los que se refiere el artículo 9 del Reglamento (UE) 2016/679, en territorio español. En cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes. Estos datos no podrán ser objeto de transferencia a un tercer país u organización internacional, con excepción de los que hayan sido objeto de una decisión de adecuación de la Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino de España.
+      En todo caso, la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados en el procedimiento administrativo.
+      Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.
+      En el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos, se considerarán válidos a efectos de firma:
+      
+SISTEMAS VÁLIDOS A EFECTOS DE FIRMASistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ''Lista de confianza de prestadores de servicios de certificación''Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la ''Lista de confianza de prestadores de servicios de certificación''Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital. Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente. De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación, durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.
+      La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital informará a la Conferencia Sectorial para asuntos de Seguridad Nacional de las resoluciones denegatorias de la autorización prevista en los artículos 9.2.c) y 10.2.c) de la Ley 39/2015, que, en su caso, se hayan dictado en el plazo máximo de tres meses desde la adopción de la citada resolución.
+      En relación con estos sistemas alternativos contemplados en el tercer supuesto, cuando se trate de sistemas establecidos por medio de Resolución de la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital para su ámbito competencial con objeto de determinar las circunstancias en las que un sistema de firma electrónica no basado en certificados electrónicos será considerado como válido en las relaciones de los interesados con los órganos administrativos de la Administración General del Estado, sus organismos públicos y entidades de Derecho Público vinculados o dependientes, no será preciso el transcurso del plazo de dos meses para la eficacia jurídica de dichos sistemas, adquiriendo eficacia jurídica al día siguiente de la publicación de la Resolución, salvo que esta disponga otra cosa.
+      Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas de firma o sello electrónicos previstos en las dos primeras casillas del cuadro anterior sea posible para todos los procedimientos en todos sus trámites, aun cuando adicionalmente se permita cualquier otro sistema de los previstos en la última casilla del cuadro.
+      En relación con los sistemas de firma que cuenten con un registro previo previstos en última casilla del cuadro anterior, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos a los que se refiere el artículo 9 del Reglamento (UE) 2016/679, en territorio español. En cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes. Estos datos no podrán ser objeto de transferencia a un tercer país u organización internacional, con excepción de los que hayan sido objeto de una decisión de adecuación de la Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino de España.
+      Cuando así lo disponga expresamente la normativa reguladora aplicable, las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en la Ley 39/2015 como sistema de firma cuando permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados.
+      Cuando los interesados utilicen un sistema de firma de los previstos en la Ley 39/2015, su identidad se entenderá ya acreditada mediante el propio acto de la firma.
+      Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en la Ley.
+      Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para la realización de ciertos trámites especialmente importantes:
+      
+USO OBLIGATORIO DE FIRMAFormular solicitudesPresentar declaraciones responsables o comunicacionesInterponer recursosDesistir de accionesRenunciar a derechos
+      
+      
+      
+      
+      
+      
+      
+      
+5.2. IDENTIFICACIÓN O FIRMA ELECTRÓNICA DE LAS PERSONAS INTERESADAS MEDIANTE PERSONAL FUNCIONARIO PÚBLICO HABILITADO.
+      Para no impedir el acceso de los interesados a la Administración, la ley regula en el artículo 12, bajo la rúbrica "asistencia en el uso de medios electrónicos a los interesados", un mecanismo para garantizar que los interesados puedan relacionarse con la Administración a través de medios electrónicos, de forma que si alguno de estos interesados no dispone de los medios electrónicos necesarios, su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello. En este caso, será necesario que el interesado que carezca de los medios electrónicos necesarios se identifique ante el funcionario y preste su consentimiento expreso para esta actuación, de lo que deberá quedar constancia para los casos de discrepancia o litigio.
+      A estos efectos, el RD 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de acceso y funcionamiento del sector público por medios electrónicos ha venido a establecer lo siguiente:
+      De acuerdo con lo previsto en el segundo párrafo del artículo 12.2 de la Ley 39/2015 de 1 de octubre, si algún interesado no incluido en los apartados 2 y 3 del artículo 14 de la ley no dispusiera de los medios electrónicos necesarios para su identificación o firma electrónica en el procedimiento administrativo, estas podrán ser válidamente realizadas por personal funcionario público habilitado mediante el uso del sistema de firma electrónica del que esté dotado para ello. 
+      En este caso, será necesario que el interesado se identifique ante el funcionario o funcionaria y preste su consentimiento expreso para esta actuación, de lo que deberá quedar constancia por escrito para los casos de discrepancia o litigio.
+      El artículo 12.3 de la Ley 39/2015 dispone que la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma regulada en este artículo. Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de las citadas habilitaciones.
+      En este registro o sistema equivalente, al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.
+      
+6. REGISTROS (ARTÍCULO 16)
+6.1. RÉGIMEN JURÍDICO
+      La Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas derogó la Ley 30/1992, de 26 de noviembre de Procedimiento Administrativo Común y la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. 
+      Dicha norma regula el registro electrónico de documentos. El desarrollo reglamentario relativo al registro y presentación de documentos lo encontramos en el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+      Debe atenderse también a las previsiones contenidas en el Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, en Resolución de 19 de julio de 2011, de la Secretaría de Estado para la Función Pública, por la que se aprueba la Norma Técnica de Interoperabilidad de Digitalización de Documentos y Resolución de 19 de julio de 2011, de la Secretaría de Estado para la Función Pública, por la que se aprueba la Norma Técnica de Interoperabilidad de Procedimientos de copiado auténtico y conversión entre documentos electrónicos.
+      Finalmente, en lo que resulte aplicable, habrá de tenerse en cuenta las previsiones contenidas en el Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, que regula el Registro de documentos en los artículos 151 y siguientes.
+      
+6.2. EL REGISTRO DE ENTRADA Y SALIDA DE DOCUMENTOS
+*Artículo 16 Ley 39/2015*
+Registros1. Cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente a éstos. También se podrán anotar en el mismo, la salida de los documentos oficiales dirigidos a otros órganos o particulares.
+Los Organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende.
+El Registro Electrónico General de cada Administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada Organismo. Tanto el Registro Electrónico General de cada Administración como los registros electrónicos de cada Organismo cumplirán con las garantías y medidas de seguridad previstas en la legislación en materia de protección de datos de carácter personal.
+Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro. En todo caso, las disposiciones de creación de registros electrónicos especificarán el órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados como inhábiles.
+En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo.
+2. Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan. Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas.
+3. El registro electrónico de cada Administración u Organismo garantizará la constancia, en cada asiento que se practique, de un número, epígrafe expresivo de su naturaleza, fecha y hora de su presentación, identificación del interesado, órgano administrativo remitente, si procede, y persona u órgano administrativo al que se envía, y, en su caso, referencia al contenido del documento que se registra. Para ello, se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro, así como un recibo acreditativo de otros documentos que, en su caso, lo acompañen, que garantice la integridad y el no repudio de los mismos.
+4. Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse:
+a) En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.
+b) En las oficinas de Correos, en la forma que reglamentariamente se establezca.
+c) En las representaciones diplomáticas u oficinas consulares de España en el extranjero.
+d) En las oficinas de asistencia en materia de registros.
+e) En cualquier otro que establezcan las disposiciones vigentes.
+Los registros electrónicos de todas y cada una de las Administraciones, deberán ser plenamente interoperables, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos que se presenten en cualquiera de los registros.
+5. Los documentos presentados de manera presencial ante las Administraciones Públicas, deberán ser digitalizados, de acuerdo con lo previsto en el artículo 27 y demás normativa aplicable, por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado, sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración de los documentos presentados o resulte obligatoria la presentación de objetos o de documentos en un soporte específico no susceptibles de digitalización.
+Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.
+6. Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas, sin perjuicio de la posibilidad de su abono por otros medios.
+7. Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos.
+8. No se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.      
+      En relación con el registro electrónico, el artículo 37 del Real Decreto 203/2021 dispone lo siguiente:
+       Las Administraciones Públicas dispondrán de registros electrónicos para la recepción y remisión de solicitudes, escritos y comunicaciones, que deberán ser plenamente interoperables de manera que se garantice su compatibilidad informática e interconexión en los términos previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre y en el artículo 60 del Reglamento.
+       Cada Administración dispondrá de un Registro Electrónico General en el que hará el asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, organismo público o entidad de derecho público vinculado o dependiente. Los organismos públicos y entidades de derecho público vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración a la que estén vinculados o de la que dependan.
+       Los registros electrónicos admitirán:
+      a) Documentos electrónicos normalizados correspondientes a los servicios, procedimientos y trámites que se especifiquen conforme a lo dispuesto en la norma de creación del registro, cumplimentados de acuerdo con formatos preestablecidos.
+      b) Cualquier solicitud, escrito o comunicación distinta de los mencionados en el párrafo anterior dirigido a cualquier Administración Pública.
+
+6.3. SISTEMA DE INTERCONEXIÓN DE REGISTROS
+      Las aplicaciones o sistemas de información para el tratamiento del Registro Electrónico General de cada Administración, así como del registro electrónico de cada organismo público o entidad de derecho público vinculado o dependiente, deberán ser interoperables.
+       Las interconexiones entre Registros de las Administraciones Públicas deberán realizarse a través del Sistema de Interconexión de Registros (SIR) gestionado por el Ministerio de Asuntos Económicos y Transformación Digital en colaboración con el Ministerio de Política Territorial y Función Pública de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en la correspondiente Norma Técnica.
+       En el ámbito de la Administración General del Estado y sus organismos públicos y entidades de derecho público vinculados o dependientes las aplicaciones o sistemas de información para el tratamiento del Registro Electrónico General de la Administración General del Estado, así como del registro electrónico de cada organismo público o entidad de derecho público vinculado o dependiente, deberán permitir la interoperabilidad con los sistemas de gestión de expedientes de las unidades de tramitación correspondientes.
+      Cuando el tamaño de los documentos registrados exceda la capacidad que se determine para el Sistema de Interconexión de Registros (SIR), su remisión a la Administración y órgano al que van dirigidos podrá sustituirse por la puesta a disposición de los documentos, previamente depositados en un repositorio de intercambio de ficheros.
+6.4. LA OFICINA DE ASISTENCIA EN MATERIA DE REGISTROS
+      Las nuevas oficinas de asistencia en materia de registro vienen a reconfigurar las oficinas de registro tradicionales y se dirigen específicamente a prestar servicio a las personas físicas no obligadas a relacionarse electrónicamente con las Administraciones, es decir, a los sujetos no obligados del artículo 14 apartado 1º de la LPAC, que a priori, serán los únicos con derecho legal garantizado a recibir "asistencia" en el sentido de lo regulado por los artículos 13.b) y 12 de la LPAC. Las Oficinas de asistencia en materia de registros tienen naturaleza de órgano administrativo de acuerdo con lo dispuesto en el artículo 5 de la Ley 40/2015, de 1 de octubre.
+      La Administración General del Estado contará con un directorio geográfico de las Oficinas de asistencia en materia de registros que será gestionado por el Ministerio de Política Territorial y Función Pública. A tal efecto, el órgano del que dependa la correspondiente Oficina de asistencia deberá comunicar de forma inmediata al citado Ministerio la aprobación de la norma por la que se cree, modifique o suprima dicha oficina, de acuerdo con lo establecido en el Esquema Nacional de Interoperabilidad, garantizando su actualización permanente.
+      Las Oficinas de asistencia en materia de registros desarrollarán las siguientes funciones:
+      a) La digitalización de las solicitudes, escritos y comunicaciones en papel que se presenten o sean recibidos en la Oficina y se dirijan a cualquier órgano, organismo público o entidad de derecho público de cualquier Administración Pública, así como su anotación en el Registro Electrónico General o Registro electrónico de cada organismo o entidad según corresponda.
+      b) La anotación, en su caso, de los asientos de salida que se realicen de acuerdo con lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+      c) La emisión del correspondiente recibo que acredite la fecha y hora de presentación de solicitudes, comunicaciones y documentos que presenten las personas interesadas.
+      d) La expedición de copias electrónicas auténticas tras la digitalización de cualquier documento original o copia auténtica que presenten las personas interesadas y que se vaya a incorporar a un expediente administrativo a través de dicha oficina en el registro electrónico correspondiente.
+      e) La información en materia de identificación y firma electrónica, para la presentación de solicitudes, escritos y comunicaciones a través de medios electrónicos en los trámites y procedimientos para los que se haya conferido habilitación.
+      f) La identificación o firma electrónica del interesado, cuando se trate de una persona no obligada a la relación electrónica con la Administración, en los procedimientos administrativos para los que se haya previsto habilitación.
+      g) La práctica de notificaciones, en el ámbito de actuación de esa Oficina, cuando el interesado o su representante comparezcan de forma espontánea en la Oficina y solicite la comunicación o notificación personal en ese momento.
+      h) La comunicación a las personas interesadas del código de identificación del órgano, organismo público o entidad a la que se dirige la solicitud, escrito o comunicación.
+      i) La iniciación de la tramitación del apoderamiento presencial apud acta en los términos previstos en el artículo 6 de la Ley 39/2015, de 1 de octubre.
+      j) Cualesquiera otras funciones que se les atribuyan legal o reglamentariamente.
+      Una vez generada la copia auténtica electrónica en la oficina, se devolverán los originales a la persona que los haya aportado. De este modo, cuando un ciudadano acuda presencialmente a una oficina de asistencia en materia de registros aportando una documentación, se marchará de la oficina con esa misma documentación y un recibo acreditativo de su presentación electrónica, salvo que se trate de los documentos respecto de los que la norma determine la custodia por la Administración (...) o resulte obligatoria la presentación de objetos o de documentos en un soporte específico no susceptibles de digitalización. 
+
+7. ARCHIVO DE DOCUMENTOS (ARTÍCULO 17)
+*Artículo 17 Ley 39/2015*
+Archivo de documentos1. Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable.
+2. Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión. Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones. La eliminación de dichos documentos deberá ser autorizada de acuerdo a lo dispuesto en la normativa aplicable.
+3. Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados. En particular, asegurarán la identificación de los usuarios y el control de accesos, así como el cumplimiento de las garantías previstas en la legislación de protección de datos.      
+7.1. TIEMPO DE CONSERVACIÓN Y DESTRUCCIÓN DE LOS DOCUMENTOS
+      El artículo 53 del Real Decreto 203/2021 regula el tiempo de conservación y la destrucción de documentos electrónicos, en los siguientes términos:
+      Los documentos presentados por el interesado en soporte papel que por cualquier circunstancia no le puedan ser devueltos en el momento de su presentación, una vez digitalizados serán conservados a su disposición durante seis meses para que pueda recogerlos, independientemente del procedimiento administrativo al que se incorporen o de la Administración Pública a que vayan dirigidos, salvo que reglamentariamente la Administración correspondiente establezca un plazo mayor.
+       Los documentos presentados por el interesado en formato electrónico dentro de un dispositivo, que por cualquier circunstancia no le puedan ser devueltos en el momento de su presentación, una vez incorporados al expediente serán conservados a su disposición durante seis meses para que pueda recogerlos, independientemente del procedimiento administrativo al que se incorporen o de la Administración Pública a que vayan dirigidos, salvo que reglamentariamente la Administración correspondiente establezca un plazo mayor.
+       Transcurrido el plazo previsto en los apartados anteriores, la destrucción de los documentos se realizará de acuerdo con las competencias del Ministerio de Cultura y Deporte o del órgano competente de la comunidad autónoma, y siempre que no se trate de documentos con valor histórico, artístico u otro relevante o de documentos en los que la firma u otras expresiones manuscritas o mecánicas confieran al documento un valor especial.
+       Cuando la generación de copias electrónicas auténticas se realice a partir de documentos originales o copias auténticas de documentos en soporte no electrónico que se conserven formando parte de sus correspondientes expedientes y series documentales en cualesquiera de las oficinas, archivos o dependencias de cualquier organismo de las Administraciones públicas, dichos documentos originales o copias auténticas de documentos en soporte no electrónico se restituirán a sus oficinas, archivos o dependencias de origen, donde les será de aplicación la normativa específica en materia de archivos y conservación del patrimonio documental en su respectivo ámbito y siguiendo lo establecido por las autoridades calificadoras que correspondan.
+       En el ámbito estatal, se estará a lo preceptuado en el Real Decreto 1164/2002, de 8 de noviembre, por el que se regula la conservación del patrimonio documental con valor histórico, el control de la eliminación de otros documentos de la Administración General del Estado y sus organismos públicos y entidades de derecho público y la conservación de documentos administrativos en soporte distinto al original.
+      
+7.2. CONSERVACIÓN DE DOCUMENTOS ELECTRÓNICOS
+      El artículo 54 del Real Decreto 203/2021 se refiere a la conservación de los documentos electrónicos, disponiendo que:
+       De acuerdo con lo previsto en el artículo 46 de la Ley 40/2015, de 1 de octubre, las Administraciones Públicas, así como sus organismos públicos y entidades de derecho público vinculados o dependientes, deberán conservar en soporte electrónico todos los documentos que formen parte de un expediente administrativo y todos aquellos documentos con valor probatorio creados al margen de un procedimiento administrativo.
+      La copia electrónica auténtica generada conforme a lo dispuesto en el artículo 27 de la Ley 39/2015, de 1 de octubre, tiene la consideración de patrimonio documental a efectos de aplicación de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español o la normativa autonómica correspondiente, siendo el periodo de conservación de los documentos el establecido por las autoridades calificadoras que correspondan.
+       Cada Administración Pública, regulará los períodos mínimos de conservación de los documentos electrónicos, que formen parte del expediente de un procedimiento cuya tramitación haya concluido, conforme a su normativa específica de archivos y patrimonio documental.
+      Cuando se tenga conocimiento por la Administración Pública, organismo o entidad de la existencia de procedimientos judiciales que afecten o puedan afectar a documentos electrónicos, estos deberán conservarse a disposición de los órganos jurisdiccionales, hasta tanto exista constancia de la terminación del procedimiento judicial correspondiente en las sucesivas instancias, por haber recaído resolución no susceptible de recurso o procedimiento alguno ante órganos jurisdiccionales nacionales o internacionales.
+       La conservación de los documentos electrónicos deberá realizarse de forma que permita su acceso y comprenda, como mínimo, su identificación, contenido, metadatos, firma, estructura y formato.
+      También será posible la inclusión de su información en bases de datos siempre que, en este último caso, consten los criterios para la reconstrucción de los formularios o modelos electrónicos origen de los documentos, así como para la comprobación de la identificación o firma electrónica de dichos datos.
+      Los plazos de conservación de esta información están sujetos a los mismos plazos establecidos para los correspondientes documentos electrónicos.
+       Para asegurar la conservación, acceso y consulta de los documentos electrónicos archivados con independencia del tiempo transcurrido desde su emisión, se podrán trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones, de acuerdo con lo previsto en el artículo 27 de la Ley 39/2015, de 1 de octubre y en la normativa específica de archivos y patrimonio documental, histórico y cultural.
+      Asimismo, se planificarán las actuaciones de preservación digital que garanticen la conservación a largo plazo de los documentos digitales y permitan de esta forma dar cumplimiento a lo establecido en el párrafo anterior
+       En todo caso, bajo la supervisión de los responsables de la seguridad y de los responsables de la custodia y gestión del archivo electrónico y de los responsables de las unidades productoras de la documentación se establecerán los planes y se habilitarán los medios tecnológicos para la migración de los datos a otros formatos y soportes que permitan garantizar la autenticidad, integridad, disponibilidad, conservación y acceso al documento cuando el formato de los mismos deje de figurar entre los admitidos por el Esquema Nacional de Interoperabilidad y normativa correspondiente.
+      
+7.3. EL ARCHIVO ELECTRÓNICO DE DOCUMENTOS
+      Todos los documentos utilizados en las actuaciones administrativas se almacenarán por medios electrónicos, salvo cuando no sea posible.
+      Los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán conservarse en soportes de esta naturaleza, ya sea en el mismo formato a partir del que se originó el documento o en otro cualquiera que asegure la identidad e integridad de la información necesaria para reproducirlo. Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones.
+      Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados. En particular, asegurarán la identificación de los usuarios y el control de accesos, el cumplimiento de las garantías previstas en la legislación de protección de datos, así como la recuperación y conservación a largo plazo de los documentos electrónicos producidos por las Administraciones Públicas que así lo requieran, de acuerdo con las especificaciones sobre el ciclo de vida de los servicios y sistemas utilizados.
+
+7.4. EL ARCHIVO ELECTRÓNICO ÚNICO
+      El artículo 55 del Real Decreto 203/2021 regula el archivo electrónico único en los siguientes términos: 
+       El archivo electrónico único de cada Administración es el conjunto de sistemas y servicios que sustenta la gestión, custodia y recuperación de los documentos y expedientes electrónicos, así como de otras agrupaciones documentales o de información una vez finalizados los procedimientos administrativos o actuaciones correspondientes.
+       En el archivo electrónico único de la Administración General del Estado serán accesibles todos los documentos y expedientes electrónicos del sector público estatal una vez finalizados los procedimientos y en los plazos determinados por la Comisión Superior Calificadora de Documentos Administrativos de acuerdo con lo que se desarrolle reglamentariamente.
+      La gestión del archivo electrónico único garantizará la autenticidad, conservación, integridad, confidencialidad, disponibilidad y cadena de custodia de los expedientes y documentos almacenados, así como su acceso, en las condiciones exigidas por el Esquema Nacional de Interoperabilidad y el Esquema Nacional de Seguridad, por la normativa de transparencia, acceso a la información pública y buen gobierno, por la legislación de archivos y patrimonio histórico y cultural y por la normativa específica que sea de aplicación, de acuerdo con lo que se desarrolle reglamentariamente.
+      
+8. VALIDEZ Y EFICACIA DE LAS COPIAS REALIZADAS POR LAS ADMINISTRACIONES PÚBLICAS (ARTÍCULO 27)
+*Artículo 27 Ley 39/2015*
+Validez y eficacia de las copias realizadas por las Administraciones Públicas.1. Cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos o privados.
+Las copias auténticas de documentos privados surten únicamente efectos administrativos. Las copias auténticas realizadas por una Administración Pública tendrán validez en las restantes Administraciones.
+A estos efectos, la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales podrán realizar copias auténticas mediante funcionario habilitado o mediante actuación administrativa automatizada.
+Se deberá mantener actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la expedición de copias auténticas que deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de la citada habilitación. En este registro o sistema equivalente constarán, al menos, los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.
+2. Tendrán la consideración de copia auténtica de un documento público administrativo o privado las realizadas, cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido.
+Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.
+3. Para garantizar la identidad y contenido de las copias electrónicas o en papel, y por tanto su carácter de copias auténticas, las Administraciones Públicas deberán ajustarse a lo previsto en el Esquema Nacional de Interoperabilidad, el Esquema Nacional de Seguridad y sus normas técnicas de desarrollo, así como a las siguientes reglas:
+a) Las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica, con o sin cambio de formato, deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.
+b) Las copias electrónicas de documentos en soporte papel o en otro soporte no electrónico susceptible de digitalización, requerirán que el documento haya sido digitalizado y deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.
+Se entiende por digitalización, el proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento.
+c) Las copias en soporte papel de documentos electrónicos requerirán que en las mismas figure la condición de copia y contendrán un código generado electrónicamente u otro sistema de verificación, que permitirá contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u Organismo público emisor.
+d) Las copias en soporte papel de documentos originales emitidos en dicho soporte se proporcionarán mediante una copia auténtica en papel del documento electrónico que se encuentre en poder de la Administración o bien mediante una puesta de manifiesto electrónica conteniendo copia auténtica del documento original.
+A estos efectos, las Administraciones harán públicos, a través de la sede electrónica correspondiente, los códigos seguros de verificación u otro sistema de verificación utilizado.
+4. Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse, salvo las excepciones derivadas de la aplicación de la Ley 19/2013, de 9 de diciembre, en el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.
+Asimismo, las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo.
+5. Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia.
+6. La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por su legislación específica.
+9. DOCUMENTOS APORTADOS POR LOS INTERESADOS AL PROCEDIMIENTO ADMINISTRATIVO (ARTÍCULO 28)
+*Artículo 28 Ley 39/2015*
+Documentos aportados por los interesados al procedimiento administrativo1. Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable. Asimismo, los interesados podrán aportar cualquier otro documento que estimen conveniente.
+2. Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración. La administración actuante podrá consultar o recabar dichos documentos salvo que el interesado se opusiera a ello. No cabrá la oposición cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección.
+Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto.
+Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud. Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente.
+3. Las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
+Asimismo, las Administraciones Públicas no requerirán a los interesados datos o documentos no exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración. A estos efectos, el interesado deberá indicar en qué momento y ante qué órgano administrativo presentó los citados documentos, debiendo las Administraciones Públicas recabarlos electrónicamente a través de sus redes corporativas o de una consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto, salvo que conste en el procedimiento la oposición expresa del interesado o la ley especial aplicable requiera su consentimiento expreso. Excepcionalmente, si las Administraciones Públicas no pudieran recabar los citados documentos, podrán solicitar nuevamente al interesado su aportación.
+4. Cuando con carácter excepcional, y de acuerdo con lo previsto en esta Ley, la Administración solicitara al interesado la presentación de un documento original y éste estuviera en formato papel, el interesado deberá obtener una copia auténtica, según los requisitos establecidos en el artículo 27, con carácter previo a su presentación electrónica. La copia electrónica resultante reflejará expresamente esta circunstancia.
+5. Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia, las Administraciones podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.
+6. Las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, exclusivamente en el ámbito de la actividad de las Administraciones Públicas.
+7. Los interesados se responsabilizarán de la veracidad de los documentos que presenten.      
+10. TÉRMINOS Y PLAZOS (ARTÍCULOS 29 A 33, AMBOS INCLUSIVE)
+*Artículo 29 Ley 39/2015*
+Obligatoriedad de términos y plazosLos términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.
+*Artículo 30 Ley 39/2015* 
+Cómputo de plazos1. Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo, cuando los plazos se señalen por horas, se entiende que éstas son hábiles. Son hábiles todas las horas del día que formen parte de un día hábil.
+Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.
+2. Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.
+Cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, se hará constar esta circunstancia en las correspondientes notificaciones.
+3. Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo.
+4. Si el plazo se fija en meses o años, éstos se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.
+El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento. Si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.
+5. Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.
+6. Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.
+7. La Administración General del Estado y las Administraciones de las Comunidades Autónomas, con sujeción al calendario laboral oficial, fijarán, en su respectivo ámbito, el calendario de días inhábiles a efectos de cómputos de plazos. El calendario aprobado por las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial, a las que será de aplicación.
+Dicho calendario deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado.
+8. La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas.      
+*Artículo 31 Ley 39/2015*
+Cómputo de plazos en los registros1. Cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos, garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos.
+2. El registro electrónico de cada Administración u Organismo se regirá a efectos de cómputo de los plazos, por la fecha y hora oficial de la sede electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y figurar de modo accesible y visible.
+El funcionamiento del registro electrónico se regirá por las siguientes reglas:
+a) Permitirá la presentación de documentos todos los días del año durante las veinticuatro horas.
+b) A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil.
+Los documentos se considerarán presentados por el orden de hora efectiva en el que lo fueron en el día inhábil. Los documentos presentados en el día inhábil se reputarán anteriores, según el mismo orden, a los que lo fueran el primer día hábil posterior.
+c) El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo. En todo caso, la fecha y hora efectiva de inicio del cómputo de plazos deberá ser comunicada a quien presentó el documento.
+3. La sede electrónica del registro de cada Administración Pública u Organismo, determinará, atendiendo al ámbito territorial en el que ejerce sus competencias el titular de aquélla y al calendario previsto en el artículo 30.7, los días que se considerarán inhábiles a los efectos previstos en este artículo. Este será el único calendario de días inhábiles que se aplicará a efectos del cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el artículo 30.6.      
+*Artículo 32 Ley 39/2015*
+Ampliación1. La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
+2. La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares, así como a aquellos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.
+3. Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate. En ningún caso podrá ser objeto de ampliación un plazo ya vencido. Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
+4. Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación que corresponda, y hasta que se solucione el problema, la Administración podrá determinar una ampliación de los plazos no vencidos, debiendo publicar en la sede electrónica tanto la incidencia técnica acontecida como la ampliación concreta del plazo no vencido.
+5. Cuando como consecuencia de un ciberincidente se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos y el ejercicio de los derechos de los interesados que prevé la normativa vigente, la Administración podrá acordar la ampliación general de plazos de los procedimientos administrativos.       
+*Artículo 33 Ley 39/2015*
+Tramitación de urgencia1. Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.
+2. No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.       
+      
+10.1. LA OBLIGACIÓN DE RESOLVER
+      El artículo 21 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas dispone que la Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.
+      El personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver son directamente responsables, en el ámbito de sus competencias del cumplimiento de la obligación legal de dictar resolución expresa en plazo.
+      El incumplimiento de dicha obligación dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable.
+      En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.
+      En el mismo sentido, el artículo 167 del ROFJEL dispone que en ningún caso podrán los funcionarios, Ponencias o Comisiones abstenerse de proponer, ni la Corporación de resolver a pretexto de silencio, oscuridad o insuficiencia de preceptos legales aplicables al caso.
+      El artículo 150 de dicho texto legal dispone que los trámites de instrucción y discusión no servirán de excusa a los Ayuntamientos, Diputaciones y Comisiones para demorar el cumplimiento de las obligaciones legales.
+      En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables.
+      
+10.2. SUPUESTOS EXCLUIDOS DE LA OBLIGACIÓN DE RESOLVER.
+      Se exceptúan de la obligación de resolver los supuestos 
+* Terminación por pacto o Convenio.
+* Los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Administración.
+      
+10.3. INCUMPLIMIENTO DE LOS PLAZOS PARA RESOLVER Y SUS EFECTOS
+   Tal como hemos visto en el apartado anterior, y repitiendo la idea de lo establecido en el mismo, el artículo 21 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas dispone que la Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.
+      En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.
+      Tal como hemos visto en temas anteriores, el cumplimiento de plazos y términos, es una obligación de las personas que tienen encomendadas las tramitación de los procedimientos, cuyo incumplimiento podrá ser puesto de manifiesto por los interesados y podrá dar lugar a responsabilidad disciplinaria.
+      Por la forma de su exteriorización, los actos administrativos pueden ser expresos o presuntos, en virtud del silencio administrativo. 
+      La falta de respuesta de la Administración da lugar a lo que se ha venido en denominar el silencio administrativo, que no es sino una ficción jurídica mediante la cual se da un sentido a la resolución presunta que permitirá a los interesados realizar la actuación que proceda. 
+      El efecto jurídico que el ordenamiento jurídico atribuye a la falta de resolución en plazo de los procedimientos administrativos va a depender del tipo de procedimiento.
+      
+      PLAZOS PARA RESOLVER Y NOTIFICARPLAZO DEL QUE DISPONE LA ADMINISTRACIÓNExiste norma reguladora del procedimientoEl que establezca la norma con un máximo de 6 meses, salvo ley o Derecho de la U.E.      No existe norma reguladora del procedimiento3 mesesINICIO DEL CÓMPUTOIniciados de oficioFecha Acuerdo Iniciación
+(Se notifica el plazo en él).      Iniciados a solicitud del interesado      
+Fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.
+(Se notifica el plazo en comunicación en 10 días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico).      
+10.4. SUSPENSIÓN DEL PLAZO PARA RESOLVER
+      Los supuestos de suspensión del plazo para resolver y notificar el procedimiento se recogen en el artículo 22 de la Ley 39/2015, de 1 de octubre, conforme al cual:
+      El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución se PODRÁ SUSPENDER  en los siguientes casos:
+      a) Cuando deba requerirse a cualquier interesado para la subsanación de deficiencias o la aportación de documentos y otros elementos de juicio necesarios, por el tiempo que medie entre la notificación del requerimiento y su efectivo cumplimiento por el destinatario, o, en su defecto, por el del plazo concedido, todo ello sin perjuicio de lo previsto en el artículo 68 de la Ley 39/2015.
+      b) Cuando deba obtenerse un pronunciamiento previo y preceptivo de un órgano de la Unión Europea, por el tiempo que medie entre la petición, que habrá de comunicarse a los interesados, y la notificación del pronunciamiento a la Administración instructora, que también deberá serles comunicada.
+      c) Cuando exista un procedimiento no finalizado en el ámbito de la Unión Europea que condicione directamente el contenido de la resolución de que se trate, desde que se tenga constancia de su existencia, lo que deberá ser comunicado a los interesados, hasta que se resuelva, lo que también habrá de ser notificado.
+      d) Cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, por el tiempo que medie entre la petición, que deberá comunicarse a los interesados, y la recepción del informe, que igualmente deberá ser comunicada a los mismos. Este plazo de suspensión no podrá exceder en ningún caso de tres meses. En caso de no recibirse el informe en el plazo indicado, proseguirá el procedimiento.
+      e) Cuando deban realizarse pruebas técnicas o análisis contradictorios o dirimentes propuestos por los interesados, durante el tiempo necesario para la incorporación de los resultados al expediente.
+      f) Cuando se inicien negociaciones con vistas a la conclusión de un pacto o convenio en los términos previstos en el artículo 86 de la Ley 39/2015, desde la declaración formal al respecto y hasta la conclusión sin efecto, en su caso, de las referidas negociaciones, que se constatará mediante declaración formulada por la Administración o los interesados.
+      g) Cuando para la resolución del procedimiento sea indispensable la obtención de un previo pronunciamiento por parte de un órgano jurisdiccional, desde el momento en que se solicita, lo que habrá de comunicarse a los interesados, hasta que la Administración tenga constancia del mismo, lo que también deberá serles comunicado.
+      A diferencia del punto anterior, en que el acuerdo de suspensión es potestativo, dispone el artículo 22.2 de la Ley 39/2015 que el transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución SE  SUSPENDERÁ en los siguientes casos:
+      a) Cuando una Administración Pública requiera a otra para que anule o revise un acto que entienda que es ilegal y que constituya la base para el que la primera haya de dictar en el ámbito de sus competencias, en el supuesto al que se refiere el apartado 5 del artículo 39 de la Ley 39/2015,  desde que se realiza el requerimiento hasta que se atienda o, en su caso, se resuelva el recurso interpuesto ante la jurisdicción contencioso administrativa. Deberá ser comunicado a los interesados tanto la realización del requerimiento, como su cumplimiento o, en su caso, la resolución del correspondiente recurso contencioso-administrativo.
+      b) Cuando el órgano competente para resolver decida realizar alguna actuación complementaria de las previstas en el artículo 87 Ley 39/2015,  desde el momento en que se notifique a los interesados el acuerdo motivado del inicio de las actuaciones hasta que se produzca su terminación.
+      c) Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento, desde que ésta se plantee hasta que sea resuelta por el superior jerárquico del recusado.
+10.5. AMPLIACIÓN DEL PLAZO PARA RESOLVER
+      AMPLIACIÓN DEL PLAZO PARA RESOLVER* Cuando el número de las solicitudes formuladas o las personas afectadas pudieran suponer un incumplimiento del plazo máximo de resolución.
+* ? El órgano competente para resolver (a propuesta razonada del órgano instructor) o el superior jerárquico del órgano competente para resolver (a propuesta de éste), podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.
+      
+* ? Excepcionalmente, cuando se hayan agotado los medios personales y materiales disponibles, el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento.
+* Plazo de ampliación no puede ser superior al establecido para la tramitación del procedimiento.
+* Mediante Acuerdo motivado.
+* Deberá ser notificado a los interesados.
+* No cabrá recurso alguno.
+10.6. TRAMITACIÓN SIMPLIFICADA DEL PROCEDIMIENTO
+      Una de las novedades más importantes de la Ley 39/2015 es la tramitación de un procedimiento simplificado. La incorporación de una tramitación simplificada del procedimiento administrativo común, regulada en el artículo 96, es una generalización de la que ya anteriormente se preveía en los procedimientos de responsabilidad.
+* Supuestos: Cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen. Es potestativo, puede iniciarse de oficio o a instancia de parte.
+
+* Posibilidad de continuar con la tramitación ordinaria: En cualquier momento del procedimiento anterior a su resolución, el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria.
+
+* Existen particularidades en los procedimientos en materia de responsabilidad patrimonial de las Administraciones Públicas y procedimientos de naturaleza sancionadora. 
+
+* Tramitación. Los procedimientos simplificados constarán únicamente de los siguientes trámites:
+
+o Inicio del procedimiento de oficio o a solicitud del interesado.
+
+o Subsanación de la solicitud presentada, en su caso.
+
+o Alegaciones formuladas al inicio del procedimiento durante el plazo de 5 días.
+
+o Trámite de audiencia, únicamente cuando la resolución vaya a ser desfavorable para el interesado.
+
+o Informe del servicio jurídico, cuando este sea preceptivo.
+
+o Informe del Consejo General del Poder Judicial, cuando este sea preceptivo.
+
+o Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma en los casos en que sea preceptivo.
+
+Desde que se solicite el dictamen al Consejo de Estado, u órgano equivalente, hasta que este sea emitido, se producirá la suspensión automática del plazo para resolver.
+
+El órgano competente solicitará la emisión del dictamen en un plazo tal que permita cumplir el plazo de resolución del procedimiento.
+
+El dictamen podrá ser emitido en el plazo de 15 días si así lo solicita el órgano competente. 
+
+En todo caso, en el expediente que se remita al Consejo de Estado u órgano consultivo equivalente, se incluirá una propuesta de resolución.
+
+Cuando el dictamen sea contrario al fondo de la propuesta de resolución, con independencia de que se atienda o no este criterio, el órgano competente para resolver acordará continuar el procedimiento con arreglo a la tramitación ordinaria, lo que se notificará a los interesados. En este caso, se entenderán convalidadas todas las actuaciones que se hubieran realizado durante la tramitación simplificada del procedimiento, a excepción del dictamen del Consejo de Estado u órgano consultivo equivalente.
+
+* Resolución. Se trata del último trámite del procedimiento. Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en 30 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.
+
+      En el caso que un procedimiento exigiera la realización de un trámite no previsto entre los anteriores, deberá ser tramitado de manera ordinaria.
+      
+10.7. LA FALTA DE RESOLUCIÓN EXPRESA: EL RÉGIMEN DEL SILENCIO ADMINISTRATIVO
+10.7.1. LA FIGURA DEL SILENCIO ADMINISTRATIVO
+Tal como hemos explicado anteriormente, al objeto de que los ciudadanos puedan saber cómo reaccionar ante la falta de respuesta de la Administración, el Derecho crea esta ficción (algo que no es, pero que el Derecho finge que es) en relación con la postura de dicha Administración. 
+      Se atribuye al silencio presuntamente un significado, a veces negativo o desestimatorio y a veces estimatorio o positivo. De aquí que se hable de dos clases de silencio: estimatorio o desestimatorio.
+      Analicemos las distintas posibilidades, no sin antes recordar que no están sujetos al régimen de silencio los procedimientos de mediación, arbitraje y conciliación, así como aquéllos terminados por pacto o convenio.
+      
+10.7.2. EN PROCEDIMIENTOS A SOLICITUD DEL INTERESADO
+      En este tipo de procedimientos, la falta de resolución en plazo provoca que las solicitudes presentadas por los interesados deban entenderse estimadas. El silencio positivo es, por tanto, la regla general (al menos en teoría, ya que en la práctica esta regla conoce no pocas excepciones).
+      La estimación tiene, a todos los efectos, la consideración de acto administrativo. La resolución expresa posterior, sólo podrá ser confirmatoria. Se podrán hacer valer tanto ante la Administración, como ante cualquier persona física o jurídica, pública o privada.
+      Excepcionalmente, ciertas solicitudes pueden considerarse desestimadas. En estos supuestos se permite la presentación de recursos por parte de los interesados.
+      Aunque el Tribunal Constitucional consideró (basándose en la redacción de la Ley 30/1992 y de la vigente Ley 29/1998) que cuando el silencio de la Administración debe entenderse en sentido desestimatorio estamos ante meras desestimaciones presuntas (no auténticos actos presuntos), la Ley 39/2015 no recoge plenamente esta doctrina ya que, en varios de sus artículos, se refiriere a actos presuntos desestimatorios.
+      Una vez producido el silencio negativo, de forma expresa se puede confirmar éste o no. El silencio será interpretado de forma desestimatoria en los siguientes casos:
+
+      PROCEDIMIENTOS CON SILENCIO DE CARÁCTER DESESTIMATORIO EN PROCEDIMIENTOS INICIADOS A SOLICITUD DEL INTERESADO. Artículo 24 de la Ley 39/2015
+      El sentido del silencio será desestimatorio cuando...      Una norma con rango de ley (cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley deberá fundarse en la concurrencia de razones imperiosas de interés general) o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España así lo determine.      Se trate del derecho de petición (artículo 29 de la Constitución).      Se transfirieran al solicitante o a terceros facultades relativas al dominio público o al servicio público.      Impliquen el ejercicio de actividades que puedan dañar el medio ambiente.      Se trate de los procedimientos de responsabilidad patrimonial de las Administraciones Públicas.      Se trate de procedimientos de impugnación de actos y disposiciones y en los de revisión de oficio iniciados a solicitud de los interesados, salvo el caso de doble silencio en el recurso de alzada (no aplicable en los casos citados en los puntos anteriores, salvo el 1º).      
+      Efectos:
+o Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada. 
+o Los actos producidos por silencio producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido.
+o Su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido:
+* Este certificado se expedirá de oficio (novedad que establece la nueva ley de procedimiento administrativo) por el órgano competente para resolver en el plazo de 15 días desde que expire el plazo máximo para resolver el procedimiento. 
+* Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.
+
+10.7.3. EN PROCEDIMIENTOS DE OFICIO
+      El artículo 25 de la Ley 39/2015, establece que, en los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver. Los efectos que producirá la falta de cumplimiento de su deber de resolver y notificar dentro del plazo establecido para ello, por parte de la Administración, variarán dependiendo del tipo de procedimiento:
+      
+      FALTA DE RESOLUCIÓN EXPRESA EN PROCEDIMIENTOS INICIADOS DE OFICIO (Artículo 25)
+      Los efectos variarán dependiendo del tipo de procedimiento...      Procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables.      Los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.      Procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen.      Se producirá la caducidad (La resolución ordenará el archivo de las actuaciones).      
+      En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución. 
+
+
+Bibliografía
+CENTRO ANDALUZ DE PREPARACIÓN DE OPOSICIONES S.L. (2020). Modelo de tema. Sevilla.
+      
+
+      
+      
+      
+      CENTRO ANDALUZ DE PREPARACIÓN DE OPOSICIONES
+Avda. del Reino Unido, 9
+Teléfono: 954 70 70 00                              Carmen Benítez García                       Joaquín Garrido Granado      
+      
+      
+      
+      
+Queda prohibida la reproducción sin permiso escrito de la Academia CEAPRO. Actualizaciones y mejoras a través de la plataforma de teleformación.
+         
+Página 1 de 37
+      
+      
+      
+      
+      
+      CENTRO ANDALUZ DE PREPARACIÓN DE OPOSICIONES
+Avda. del Reino Unido, 9
+Teléfono: 954 70 70 00         Autor 3                     Autor 2                       Joaquín Garrido Granado      
+      
+      
+Queda prohibida la reproducción sin permiso escrito de la Academia CEAPRO. Actualizaciones y mejoras a través de la plataforma de teleformación.
+         
+Página 37 de 37
+      
